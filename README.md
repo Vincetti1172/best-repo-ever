@@ -1,2 +1,2 @@
 # best-repo-ever
-my test repository
+my test repository is awesome
